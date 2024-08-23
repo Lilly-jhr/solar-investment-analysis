@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "w0env\\Scripts\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.autopep8Path": "w0env\\Scripts\\autopep8.exe",
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true
+}
